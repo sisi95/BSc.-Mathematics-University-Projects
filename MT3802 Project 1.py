@@ -133,3 +133,4 @@ def specradius_Tsor(w):
     
 print 'p(Tsor) =', specradius_Tsor(1.1)
 
+print 'hello'
